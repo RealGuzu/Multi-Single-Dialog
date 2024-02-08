@@ -45,11 +45,6 @@ public class MainActivity extends AppCompatActivity {
             alertDialog.show();
         });
 
-        btnMulti.setOnClickListener(v ->{
-            AlertDialog.Builder alertDIalogBuilder = new AlertDialog.Builder(MainActivity.this);
-
-        });
-
 
     }
 }
