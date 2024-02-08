@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SingleMultipleDialogue</string>
+    <string name="show_single">Show Single Choice Dialog</string>
+    <string name="show_multi">Show Multi Choice Dialog</string>
+</resources>
